@@ -1,5 +1,4 @@
 <?php
-$a ="Hello World!";
+$a = "Hello World!";
 echo $a;
 echo "<br> $a[1]";
-?>
